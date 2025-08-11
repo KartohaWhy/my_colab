@@ -1,2 +1,2 @@
 # my_colab
-All from my google Colab
+Проекты, написанные в google Colab для олимпиад, курсов и для себя
